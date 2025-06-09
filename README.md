@@ -35,7 +35,7 @@ This file is a Telegram account phishing tool
 
 How does it work?
 
-This file comes from the user, takes the Telegram account number, login code and 2FA password, pretends to have encountered an error but has logged in!, creates a session file and sends it to you!
+This file comes from the user, takes the Telegram account number, login code and 2FA password, pretends to have encountered an error but has logged in!, creates a session file and sends it to you! After the file is sent to you, the chat will be deleted.
 
 ohh, that's what we wanted! Now we can listen to the messages! We activate the listener and enter the victim's number in Telegram and receive the code! That's it! You are logged in!
 
